@@ -58,9 +58,17 @@
           <option name="url" value="https://zathruswriter@bitbucket.org/zathruswriter/adminanything.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinambrus/AdminAnythingAPIDocs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/martinambrus/adminanything.github.io.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\krakatice\workspace" />
+    <option name="cloneParentDir" value="C:\Users\krakatice\workspace\adminanything-refactor" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
