@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'minecraft_server_1.1.8_source_from_Procyon'" />
-    <option name="defaultScopeName" value="Project 'minecraft_server_1.1.8_source_from_Procyon'" />
-    <option name="SEARCH_SCOPE" value="Project 'minecraft_server_1.1.8_source_from_Procyon'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
