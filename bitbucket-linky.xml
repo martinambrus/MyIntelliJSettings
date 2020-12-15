@@ -12,5 +12,5 @@
       <record scheme="https" hostname="hub.spigotmc.org" port="-1" path="/stash" uuid="11bad8a3-f179-3d69-b878-283be7f500ae" />
     </lookup>
   </component>
-  <component name="Instance" id="6956562c-817b-443b-93dd-a5a005b68f35" version="8.0.101" />
+  <component name="Instance" id="6956562c-817b-443b-93dd-a5a005b68f35" version="2020.3.142" />
 </application>
