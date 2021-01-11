@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/Zrips/Residence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TBMCPlugins/LimitedCreative.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lepsi\IdeaProjects" />
