@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/SirBlobman/JoinCommands.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fishydarwin/OpenRP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\lepsi\IdeaProjects" />
